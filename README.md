@@ -7,9 +7,6 @@
 * O exercicio proposto tem a finalidade de identificar pelo ano de nascimento quantos anos a pessoa tem. 
 * A realização desse projetinho é somente para treinar linhas de código em JavaScript. 
 
-## Códigos em JS 
-* Estou ainda acresentando linhas de código. 
-
 ## Github Pages 
 
 * Em breve 
