@@ -30,12 +30,19 @@ footer
 
 @media screen and (max-width: 600px) {
     
-    section {
+    section 
+    {
     width: 300px;
     margin: auto;
     }
     .anodenasc
     {
     width: 100px;
+    }
+
+    img 
+    {
+     width: 300px;
+     height: 300px;
     }
 }
